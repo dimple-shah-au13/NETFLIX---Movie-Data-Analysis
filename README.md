@@ -17,7 +17,7 @@ Netflix is known for its work in data science AI and ml particularly for buildin
 
 ## 📊 Power BI Dashboard Interaction -->>>>
 
-- <a href="https://github.com/dimple-shah-au13/NETFLIX---Movie-Data-Analysis/blob/main/Netflix%20Dashboard.pbix">View Dashboard</a>
+- <a href="https://github.com/dimple-shah-au13/NETFLIX---Movie-Data-Analysis/blob/main/Images/Netflix-Dashboard.png">View Dashboard</a>
 
 ## 📈 Exploratory Data Analysis -->>>>
 
