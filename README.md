@@ -15,6 +15,10 @@ Netflix is known for its work in data science AI and ml particularly for buildin
 - Jupyter Notebook
 - Power BI (for visualization dashboard)
 
+## 📊 Power BI Dashboard Interaction -->>>>
+
+- <a href="https://github.com/dimple-shah-au13/NETFLIX---Movie-Data-Analysis/blob/main/Netflix%20Dashboard.pbix">View Dashboard</a>
+
 ## 📈 Exploratory Data Analysis -->>>>
 
 1. What is the most frequent genre of movies released on Netflix?
@@ -24,7 +28,7 @@ Netflix is known for its work in data science AI and ml particularly for buildin
 5. which year has the most filmmed movies ?
 
 
-## 📊 Power BI Dashboard  -->>>>
+## 📊 Dashboard  -->>>>
 
 Here’s a preview of the interactive dashboard:
 
